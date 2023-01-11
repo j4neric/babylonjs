@@ -1,0 +1,22 @@
+{
+  "name": "newbabylon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ammojs-typed": "^1.0.6",
+    "babylonjs": "^5.41.0",
+    "regenerator-runtime": "^0.13.11"
+  },
+  "devDependencies": {
+    "buffer": "^5.7.1",
+    "path-browserify": "^1.0.1",
+    "process": "^0.11.10"
+  }
+}
